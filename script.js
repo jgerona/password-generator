@@ -28,7 +28,7 @@ function writePassword(passLength, charIncluded) {
   // console.log(password[1]);
   // passwordText.placeholder = password.valueOf();
   // passwordText.placeholder = password[1];
-  console.log(password);
+  // console.log(password);
 
 }
 
